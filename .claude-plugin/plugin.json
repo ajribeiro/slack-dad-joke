@@ -1,7 +1,8 @@
 {
   "name": "slack-dad-joke",
   "description": "Finds the last message you sent in Slack and tells a chicken-themed dad joke inspired by it.",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "icon": "./.claude-plugin/icon.svg",
   "author": {
     "name": "AJ Ribeiro"
   },

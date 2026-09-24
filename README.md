@@ -41,6 +41,7 @@ Or just ask: "tell me a dad joke about the last thing I said in Slack".
 
 ## Changelog
 
+- 0.2.1: declare the icon in the manifest.
 - 0.2.0: every joke now involves chickens.
 - 0.1.0: first release.
 
