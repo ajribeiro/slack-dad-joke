@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Slack dad joke">
+  <rect width="256" height="256" rx="48" fill="#1F8A84"/>
+  <!-- speech bubble -->
+  <path fill="#FFFFFF" d="M48 44 H208 A24 24 0 0 1 232 68 V164 A24 24 0 0 1 208 188 H120 L76 226 V188 H48 A24 24 0 0 1 24 164 V68 A24 24 0 0 1 48 44 Z"/>
+  <!-- glasses -->
+  <g fill="#FFFFFF" stroke="#2B2B2B" stroke-width="8">
+    <circle cx="96" cy="96" r="24"/>
+    <circle cx="160" cy="96" r="24"/>
+  </g>
+  <g fill="none" stroke="#2B2B2B" stroke-width="8" stroke-linecap="round">
+    <path d="M120 94 q8 -8 16 0"/>
+    <path d="M72 92 l-16 -8"/>
+    <path d="M184 92 l16 -8"/>
+  </g>
+  <circle cx="100" cy="99" r="7" fill="#2B2B2B"/>
+  <circle cx="164" cy="99" r="7" fill="#2B2B2B"/>
+  <!-- moustache -->
+  <path fill="#2B2B2B" d="M128 140 C116 128 96 128 82 142 C74 150 64 150 56 144 C62 164 84 172 102 164 C114 160 122 152 128 146 C134 152 142 160 154 164 C172 172 194 164 200 144 C192 150 182 150 174 142 C160 128 140 128 128 140 Z"/>
+</svg>
