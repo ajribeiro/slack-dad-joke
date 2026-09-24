@@ -39,6 +39,10 @@ Or just ask: "tell me a dad joke about the last thing I said in Slack".
 - It does not read channels, threads, or other people's messages.
 - It mentions at most a few words of your message in the reply, and nothing at all if the message looks sensitive.
 
+## Privacy
+
+See the [Privacy policy](PRIVACY.md). In short: the plugin author collects nothing, and the only remote service involved is Slack's own MCP server.
+
 ## What's inside
 
 - `.claude-plugin/plugin.json`: the plugin manifest

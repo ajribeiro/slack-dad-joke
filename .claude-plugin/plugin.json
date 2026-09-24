@@ -6,5 +6,8 @@
     "name": "AJ Ribeiro"
   },
   "license": "MIT",
+  "homepage": "https://github.com/ajribeiro/slack-dad-joke",
+  "repository": "https://github.com/ajribeiro/slack-dad-joke",
+  "privacyPolicyUrl": "https://github.com/ajribeiro/slack-dad-joke/blob/main/PRIVACY.md",
   "keywords": ["slack", "jokes", "fun", "mcp", "example"]
 }
