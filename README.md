@@ -1,6 +1,6 @@
 # slack-dad-joke
 
-A small Claude Code plugin that finds the last message you sent in Slack and tells a dad joke inspired by it.
+A small Claude Code plugin that finds the last message you sent in Slack and tells a chicken-themed dad joke inspired by it.
 
 It bundles Slack's MCP server, so installing the plugin also adds the Slack connection it needs.
 
@@ -38,6 +38,11 @@ Or just ask: "tell me a dad joke about the last thing I said in Slack".
 - It makes one Slack search for your own most recent message (filtered to your user ID, newest first, one result).
 - It does not read channels, threads, or other people's messages.
 - It mentions at most a few words of your message in the reply, and nothing at all if the message looks sensitive.
+
+## Changelog
+
+- 0.2.0: every joke now involves chickens.
+- 0.1.0: first release.
 
 ## Privacy
 
